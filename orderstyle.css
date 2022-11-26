@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+
+body{
+
+    background: linear-gradient(to right, salmon, rgb(255, 0, 0));
+    font-family: 'Poppins', sans-serif;
+   
+   
+
+
+}
+
+
+
+
+.selection{
+
+
+    color: coral;
+    font-size: 40px;
+    text-shadow: 3px 3px 3px black;
+    text-align: center;
+
+
+}
+
+.b1{
+
+    border-radius: 100px;
+    width: 300px;
+    position: absolute;
+    top: 45%;
+    left: 10%;
+    border: 2px solid black;
+    
+
+}
+
+
+.b1info{
+
+
+    color: rgb(121, 72, 54);
+    font-size: 20px;
+    text-shadow: 3px 3px 3px black;
+    position: absolute;
+    top: 85%;
+    left: 16%;
+    
+}
+
+.double{
+
+    border-radius: 100px;
+    width: 300px;
+    position: absolute;
+    top: 45%;
+    left: 40%;
+    border: 2px solid black;
+
+
+}
+
+
+.doubleinfo{
+
+
+    color: rgb(121, 72, 54);
+    font-size: 20px;
+    text-shadow: 3px 3px 3px black;
+    position: absolute;
+    top: 85%;
+    left: 46.5%;
+    
+}
+
+
+.chicken{
+
+    border-radius: 100px;
+    width: 300px;
+    position: absolute;
+    top: 45%;
+    left: 70%;
+    border: 2px solid black;
+
+
+}
+
+
+.chickeninfo{
+
+
+    color: rgb(121, 72, 54);
+    font-size: 20px;
+    text-shadow: 3px 3px 3px black;
+    position: absolute;
+    top: 85%;
+    left: 76%;
+    
+}

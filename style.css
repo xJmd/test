@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+
+body{
+
+    background: linear-gradient(to right, salmon, rgb(255, 0, 0));
+    font-family: 'Poppins', sans-serif;
+   
+   
+
+
+}
+
+
+.Title{
+
+    text-align: center;
+    color: lightsalmon;
+
+    font-size: 40px;
+    text-shadow: 4px 4px 2px black;
+
+}
+
+
+.order{
+
+    text-align: center;
+ 
+}
+
+
+button{
+
+    background-color: salmon;
+    border-radius: 20px;
+    width: 750px;
+    height: 200px;
+    font-size: 100px;
+    text-shadow: 2px 2px 5px darkred;
+    box-shadow: 10px 10px 10px black;
+    margin-top: 300px;
+}
+
+
+.pretitle{
+
+   
+    color: lightsalmon;
+    font-size: 20px;
+    text-shadow: 4px 4px 2px black;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+
+
+}
+
+img{
+
+    border-radius: 110px;
+    position: absolute;
+    top: 43%;
+    left: 45%;
+    box-shadow: 10px 10px 10px black;
+    border: 5px solid black;
+}
+
